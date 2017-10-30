@@ -1,7 +1,7 @@
 #include <stdio.h>
 double fun(){
 	double x,y;
-	printf("ÇëÊäÈëÁ½¸ö²»Í¬Êý£º");
+	printf("è¾“å…¥ä¸¤ä¸ªä¸ç­‰å®žæ•°ï¼š");
     scanf ("%lf%lf",&x,&y);
 	if (x>y)
 	printf("%lf",x);
